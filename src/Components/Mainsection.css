@@ -1,0 +1,211 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+a {
+  color: #06c;
+}
+img {
+  max-width: 100%;
+}
+.white {
+  color: #fff;
+}
+.black {
+  color: #1d1d1f;
+}
+.grey {
+  color: #86868b;
+}
+.top-50 {
+  margin-top: 50px;
+}
+
+/* Alert Section */
+.alert-section {
+  text-align: center;
+  padding: 20px;
+}
+.alert-title {
+  font-weight: 600;
+  color: #1d1d1f;
+  padding: 10px;
+}
+.alert-text {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+/* First Section */
+.first-hightlight-wrapper {
+  background-image: url("../images/home/ipodPronew.jpg");
+  height: 580px;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: initial;
+  background-color: #fbfbfd;
+  text-align: center;
+  padding: 65px 20px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+.ipod-caption {
+  color: #86868b;
+  font-size: 12px;
+  line-height: 1.33337;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  padding-top: 310px;
+}
+
+/* Second Section */
+.second-hightlight-wrapper {
+  background-image: url("../images/home/macbookair-new.jpg");
+  height: 580px;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: initial;
+  background-color: #fbfbfd;
+  text-align: center;
+  padding: 65px 20px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+/* Third Section */
+.third-hightlight-wrapper {
+  background-image: url("../images/home/iphone11-pro-bg.jpg");
+  height: 580px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding: 65px 20px;
+  color: #fff;
+}
+
+/* Fourth Section */
+.fourth-heghlight-wrapper .left-side-wrapper .left-side-container {
+  background-image: url("../images/home/iphone11-colored.jpg");
+  background-color: #000;
+  padding-top: 35px;
+  margin: 0 0 10px 0;
+  background-size: cover;
+}
+.fourth-heghlight-wrapper .right-side-wrapper .right-side-container {
+  background-image: url("../images/home/apple-blue-logo.jpg");
+  background-color: #165ca9;
+  background-position: bottom;
+  padding-top: 35px;
+  margin: 0 0 10px 0;
+  background-size: auto;
+}
+.links-wrapper.white li a {
+  color: #fff;
+}
+.fourth-heghlight-wrapper .right-side-wrapper .title-wraper {
+  max-width: 380px;
+}
+
+/* Fifth Section */
+.fifth-heghlight-wrapper .left-side-wrapper .left-side-container {
+  background-image: url("../images/home/actors.jpg");
+  background-color: #000;
+  padding-top: 35px;
+  margin: 0 0 10px 0;
+  background-size: cover;
+}
+.fifth-heghlight-wrapper .right-side-wrapper .right-side-container {
+  background-image: url("../images/home/watch.jpg");
+  background-color: #fbfbfd;
+  background-position: bottom;
+  padding-top: 35px;
+  margin: 0 0 10px 0;
+  background-size: auto;
+}
+.fifth-heghlight-wrapper .description-wraper {
+  max-width: 450px;
+  margin: 7px auto;
+}
+.watch-more-wrapper a {
+  text-decoration: none;
+  font-size: 0.85em;
+  color: #fff;
+}
+.tvshow-logo-wraper {
+  padding: 340px 0 0px;
+}
+
+/* Sixth Section */
+.sixth-heghlight-wrapper .left-side-wrapper .left-side-container {
+  background-image: url("../images/home/spyder.jpg");
+  background-color: #000;
+  background-position: bottom;
+  padding-top: 35px;
+  margin: 0 0 10px 0;
+  background-size: cover;
+}
+.sixth-heghlight-wrapper .right-side-wrapper .right-side-container {
+  background-image: url("../images/home/apple-card-monthly.jpg");
+  background-color: #fbfbfd;
+  background-position: bottom;
+  padding-top: 35px;
+  margin: 0 0 10px 0;
+  background-size: auto;
+}
+.sixth-heghlight-wrapper .links-wrapper {
+  max-width: 300px;
+  margin: 0 auto;
+}
+.description-wraper.white {
+  color: white;
+}
+
+/* Shared Section Styles */
+.left-side-container,
+.right-side-container {
+  min-height: 515px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+.left-side-wrapper,
+.right-side-wrapper {
+  padding: 0;
+}
+.links-wrapper {
+  padding: 15px 0;
+}
+.links-wrapper ul {
+  list-style: none;
+}
+.links-wrapper ul li {
+  display: inline-block;
+  padding-right: 20px;
+}
+.links-wrapper ul li a {
+  color: #06c;
+  text-decoration: none;
+  font-size: 21px;
+}
+.links-wrapper ul li a:hover {
+  color: #000;
+}
+.title-wraper {
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 1.15em;
+  letter-spacing: -0.04em;
+}
+.title-wraper.bold {
+  font-weight: 600;
+  font-size: 32px;
+}
+.description-wrapper {
+  font-size: 26px;
+  padding: 10px 0;
+}
+.price-wrapper {
+  font-size: 16px;
+  margin-bottom: 15px;
+}
