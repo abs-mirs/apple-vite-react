@@ -6,7 +6,7 @@ import flagIcon from "../images/icons/16.png";
 function Footer() {
   return (
     <footer className="footer-wrapper">
-      <div className="container">
+      <div className="containerfooter">
         <div className="upper-text-container">
           <p>
             1. Trade In: Trade‑in values vary. iPhone 11 and iPhone 11 Pro

@@ -1,5 +1,6 @@
 body {
   font-family: "Montserrat", sans-serif;
+
 }
 a {
   color: #06c;
@@ -20,6 +21,7 @@ img {
   margin-top: 50px;
 }
 
+
 /* Alert Section */
 .alert-section {
   text-align: center;
@@ -37,7 +39,7 @@ img {
 
 /* First Section */
 .first-hightlight-wrapper {
-  background-image: url("../images/home/ipodPronew.jpg");
+  background-image: url("../images/home/ipodPronew-sm.jpg");
   height: 580px;
   background-position: bottom;
   background-repeat: no-repeat;

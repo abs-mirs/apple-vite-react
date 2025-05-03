@@ -7,7 +7,7 @@ import cart from "../images/icons/cart-sm.png";
 function Header() {
   return (
     <div className="nav-wrapper fixed-top">
-      <div className="container">
+      <div className="containertop">
         <nav className="navbar navbar-toggleable-sm navbar-expand-md">
           <button
             className="navbar-toggler navbar-toggler-right"

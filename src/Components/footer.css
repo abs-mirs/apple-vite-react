@@ -1,8 +1,15 @@
 /* Footer Styling */
+.containerfooter {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
 .footer-wrapper {
   background-color: #f5f5f7;
   color: #86868b;
-  font-size: .7em;
+  font-size: 0.7em;
 }
 
 .footer-wrapper ul {
