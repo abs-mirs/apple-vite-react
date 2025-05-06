@@ -1,0 +1,62 @@
+.iphone-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.iphone-title {
+  text-align: center;
+  margin-bottom: 5rem;
+  font-size: 2.5rem;
+  margin-top: 60px;
+}
+
+.iphone-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 3rem;
+  flex-wrap: wrap;
+}
+
+.row-flipped {
+  flex-direction: row-reverse;
+}
+
+.iphone-img img {
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+}
+
+.iphone-img {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.iphone-details {
+  flex: 1;
+  padding: 1rem;
+  text-align: center;
+}
+
+.iphone-details h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.iphone-details p {
+  font-size: 1.1rem;
+  margin: 0.5rem 0;
+}
+
+.learn-more {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.6rem 1.2rem;
+  background-color: #0071e3;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
